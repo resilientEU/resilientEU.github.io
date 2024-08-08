@@ -7,9 +7,9 @@ Resilience - Doctoral Network spanning the European Union focused on formalizing
 
 
 <figure>
-  <img alt="Christopher Hitchens" src="{{ '/assets/images/resilience.png' | relative_url }}" />
+  <img alt="Resilience_Logo" src="{{ '/assets/images/resilience.png' | relative_url }}" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    Resilience Logo of our network.
   </figcaption>
 </figure>
 
@@ -29,7 +29,6 @@ The team of researchers will be organized into five interconnected clusters:
 5.	Synthesis
 
 
----
 
 Cluster 1 - Scale-free Theoretical Studies on Resilience
 
@@ -37,6 +36,7 @@ This cluster aims to formalise the definitions of the terminology often used in 
 Concepts such as Redundancy, Plasticity/Elasticity, Rigidity/Fragility,
 Negative feedback,
 Self-organisation, Memory/hysteresis, Persistence, Tipping points and Criticality
+
 
 Cluster 2 -  Ecological and Environmental Sciences
 
@@ -52,4 +52,4 @@ Socialbiological evolution and sociotechnological advances
 
 Cluster 2 -  Synthesis
 
-The philosophies of resilience across scales.
+The aim of this cluster is to synthesise the philosophies of resilience across scales of organisation. If we want to make a impact on a planetary scale - combining our viewpoints - from theoretical developments to practical applications - needs to be synthesised. This cluster will delve into providing such coherent perspectives and review documentation of the project.
