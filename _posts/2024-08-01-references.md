@@ -10,7 +10,7 @@ categories: literature
 3.	Holling, C. S. Resilience and Stability of Ecological Systems. *Annu. Rev. Ecol. Syst.* 4, 1–23 (1973).
 4.	Dakos, V. & Kéfi, S. Ecological resilience: what to measure and how. *Environ. Res. Lett.* 17, 043003 (2022).
 5.	Reed, J. M., Wolfe, B. E. & Romero, L. M. Is resilience a unifying concept for the biological sciences? *iScience* 27, 109478 (2024).
-6.	Thorogood, R. et al. Understanding and applying biological resilience, from genes to ecosystems. npj Biodivers. 2, 16 (2023).
+6.	Thorogood, R. et al. Understanding and applying biological resilience, from genes to ecosystems. *npj Biodivers.* 2, 16 (2023).
 7.	Meyer, K. A MATHEMATICAL REVIEW OF RESILIENCE IN ECOLOGY. *Nat. Resour. Model.* 29, 339–352 (2016).
 8.	Mitra, C., Kurths, J. & Donner, R. V. An integrative quantifier of multistability in complex systems based on ecological resilience. *Sci. Rep.* 5, 16196 (2015).
 9.	Sguotti, C., Vasilakopoulos, P., Tzanatos, E. & Frelat, R. Resilience assessment in complex natural systems. *Proc. B* 291, 20240089 (2024). [^1]
