@@ -30,7 +30,7 @@ The team of researchers will be organized into five interconnected clusters:
 
 
 
-Cluster 1 - Scale-free Theoretical Studies on Resilience
+**Cluster 1 - Scale-free Theoretical Studies on Resilience**
 
 This cluster aims to formalise the definitions of the terminology often used in terms of resilience and, where possible, investigate the origins and development of these concepts in an evolutionary sense.
 Concepts such as Redundancy, Plasticity/Elasticity, Rigidity/Fragility,
@@ -38,18 +38,21 @@ Negative feedback,
 Self-organisation, Memory/hysteresis, Persistence, Tipping points and Criticality
 
 
-Cluster 2 -  Ecological and Environmental Sciences
+**Cluster 2 -  Ecological and Environmental Sciences**
 
-The concept of resilience has a long history in ecology.
+The concept of ecological resilience
 
-Cluster 3 -  Biological and Evolutionary Sciences
 
-The concept of resilience has a long history in ecology.
+**Cluster 3 -  Biological and Evolutionary Sciences**
 
-Cluster 4 - Applied and Integrative Sciences
+The concept of biological resilience and evolutionary resilience
 
-Socialbiological evolution and sociotechnological advances
 
-Cluster 2 -  Synthesis
+**Cluster 4 - Applied and Integrative Sciences**
+
+Resilience engineering in sociobiological and cultural evolution and socio-technological advances
+
+
+**Cluster 5 -  Synthesis**
 
 The aim of this cluster is to synthesise the philosophies of resilience across scales of organisation. If we want to make a impact on a planetary scale - combining our viewpoints - from theoretical developments to practical applications - needs to be synthesised. This cluster will delve into providing such coherent perspectives and review documentation of the project.
