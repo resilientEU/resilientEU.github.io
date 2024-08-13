@@ -32,27 +32,36 @@ The team of researchers will be organized into five interconnected clusters:
 
 #### Cluster 1 - Scale-free Theoretical Studies on Resilience
 
-This cluster aims to formalise the definitions of the terminology often used in terms of resilience and, where possible, investigate the origins and development of these concepts in an evolutionary sense.
-Concepts such as Redundancy, Plasticity/Elasticity, Rigidity/Fragility,
-Negative feedback,
-Self-organisation, Memory/hysteresis, Persistence, Tipping points and Criticality
+This cluster aims to mathematically formalise the definitions of the terminology often used in terms of resilience and, where possible, investigate the origins and development of these concepts in an evolutionary sense.
+Concepts such as *Redundancy, Plasticity/Elasticity, Rigidity/Fragility, feedback loops, self-organisation, memory/hysteresis, persistence, tipping points, and criticality* will be defined and studied using methods from mathematics, dynamical systems theory, and statistical physics.
 
 
 #### Cluster 2 -  Ecological and Environmental Sciences
 
-The concept of ecological resilience
+This cluster will focus on developing and applying mathematical and dynamical systems theories to model and predict ecological and environmental resilience. 
+The researchers will levarage concepts from nonlinear dynamics, bifurcation theory, and complex systems, the project aims to identify critical thresholds (tipping points) within ecosystems that signal potential transitions from stable to unstable states. The projects will provide insights into the mechanisms driving ecosystem resilience or vulnerability, facilitating the development of strategies to enhance ecological stability and sustainability in the face of climate change, habitat loss, and other anthropogenic pressures.
 
 
 #### Cluster 3 -  Biological and Evolutionary Sciences
 
-The concept of biological resilience and evolutionary resilience
+This cluster will explore the resilience of biological systems and evolutionary processes. 
+The role of genetic diversity, adaptation, and evolutionary pressures in maintaining resilience will be explored by focusing on how organisms and populations respond to environmental stressors over evolutionary time. 
+The researchers will use population genetics, population dynamics models, stochastic processes, and evolutionary game theory to investigate how resilience is maintained or lost at different biological scales, from cellular to population levels. The research will also examine how evolutionary strategies influence the ability of species to recover from perturbations, adapt to changing environments, and avoid extinction. 
+The goal is to provide a comprehensive theoretical understanding of the mechanisms that drive biological resilience, offering insights into conservation strategies and biodiversity management in the face of rapid environmental changes.
 
 
 #### Cluster 4 - Applied and Integrative Sciences
 
-Resilience engineering in sociobiological and cultural evolution and socio-technological advances
+This cluster will investigate the resilience of sociobiological systems, cultural evolution, and socio-technological systems. 
+By examining how social behaviours, cultural norms, and technological innovations evolve and adapt over time, the researchers involved will explore the factors that contribute to the resilience of societies in the face of challenges such as environmental changes, resource depletion, and technological disruptions. 
+Tools like agent-based models, evolutionary game theory, and network theory will be used to understand how social networks, cultural practices, and technological systems can maintain stability and adapt to changing conditions. Positive (and negative) feedback loops between social behaviours and technological advancements influence the resilience of human societies. Insights gained from this cluster could inform strategies for fostering social and technological resilience to ensure societies can adapt to and thrive amidst rapid cultural and technological changes.
 
 
 #### Cluster 5 -  Synthesis
 
-The aim of this cluster is to synthesise the philosophies of resilience across scales of organisation. If we want to make a impact on a planetary scale - combining our viewpoints - from theoretical developments to practical applications - needs to be synthesised. This cluster will delve into providing such coherent perspectives and review documentation of the project.
+This cluster aims to synthesise the philosophies of resilience across organisational scales. 
+Combining our viewpoints - from theoretical developments to practical applications - needs to be synthesised to make an impact on a planetary scale.
+The involved researchers will explore commonalities and differences in how resilience manifests across these varied contexts by integrating mathematical approaches such as dynamical systems theory, network analysis, and evolutionary game theory. 
+The goal is to identify universal principles that govern resilience, such as feedback mechanisms, tipping points, and adaptive capacities, and connect back to the scale-free concepts to develop a unified theory that can be applied to predict and enhance resilience in complex systems. 
+The project will also investigate how resilience at one level (e.g., cellular or organismal) impacts resilience at higher organizational scales (e.g., ecosystems or societies). 
+By combining insights across clusters in ecology, evolutionary biology, sociobiology, cultural evolution, and socio-technological systems, this synthesis will provide a robust theoretical foundation for understanding and managing resilience in a rapidly changing world.
