@@ -3,11 +3,14 @@ layout: post
 title: Membership
 ---
 
-Currently we are soliciting interested researchers to join in the Doctoral network application process.
+We are currently soliciting interested researchers to join the Doctoral network application process.
 
-There are three kinds of memberships possible:
+**The below definitions can be found in the EU documents [EU documents](https://resilienteu.github.io/literature/2024/08/02/EUDocuments.html)**
 
-*Beneficiary*
+There are two kinds of roles possible:
+
+
+### *Beneficiary*
 
 The legal entities that sign the grant agreement (either directly or through an accession form) and have the responsibility for the proper implementation of the action.
 They contribute directly to the implementation of the research, transfer of knowledge and training activities.
@@ -17,13 +20,15 @@ Member State. Should none of them be entitled to award a doctoral degree, a univ
 academic/research institutions entitled to award a doctoral degree must be added to the project as an associated partner or
 an associated partner linked to a beneficiary.
 
-They can be from the 
+Benificiaries can be from the 
 
 * Academic sectors - means public or private higher education establishments awarding academic degrees, public or private non-profit research organisations 81 and International European Research Organisations (IERO)
 
+or
+
 * Non-academic sectors - means any socio-economic actor not included in the academic sector and fulfilling the requirements of the Horizon Europe Rules for Participation.
 
-*Associated partners*
+### *Associated partners*
 
 Entities which participate in the action, but without the right to
 charge costs or claim contributions. 
@@ -34,14 +39,15 @@ Furthermore, we are also interested in the fit within the theme of the framework
 
 Considering this, we have compiled a short Letter of Interest template.
 
-**The above definitions can be found in the EU documents [EU documents](https://resilienteu.github.io/literature/2024/08/02/EUDocuments.html)**
+
 
 ## Letter of Interest
 
-Please download the following letter of interest form that will allow us to assess your interest and determine if it fits with the framework concept (see About) and the other applicants.
+Please fill out the following letter of interest that will allow us to assess your interest and determine if it fits with the framework concept (see About) and the interests of other applicants.
+Feel free to send this information to collaborators (as per rules for beneficiaries or associated) if you see them fit in this program and possibly develop joint doctorate programs that preferably go across clusters.
 
 Once assessed, we will then form collaborative research teams and a core writing group to proceed with the application writing.
-Hence while we appreciate your time and effort in being a part of the application process we are limited in how many *Beneficiaries* we can have and a justified reasonable number of *Associated partners*
+Hence, while we appreciate your time and effort in being a part of the application process, we are limited in how many *Beneficiaries* we can have and a justified reasonable number of *Associated partners*
 
 **Please send in your completely filled LOIs by the deadline - 31st of December 2024.**
 
