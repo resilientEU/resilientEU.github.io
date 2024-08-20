@@ -3,6 +3,9 @@ layout: post
 title: About
 ---
 
+*Please read the following carefully. It will help you position yourself within the framework.*
+
+
 Resilience - Doctoral Network spanning the European Union focused on formalizing, implementing and synthesizing the concept of Resilience
 
 
@@ -17,10 +20,12 @@ From [Holling, C. S. Resilience and Stability of Ecological Systems. Annu. Rev. 
 
 >Resilience determines the persistence of relationships within a system and is a measure of the ability of these systems to absorb changes of state variables, driving variables, and parameters, and still persist.
 
-This definition emphasizes resilience as an inherent system property rather than focusing solely on stability or recovery speed. 
+This definition emphasises resilience as an inherent system property rather than focusing solely on stability or recovery speed. 
 Our project will refine this concept into a mathematically precise, quantifiable definition applicable across sociobiological scales.
 
-The team of researchers will be organized into five interconnected clusters:
+**The proposal will be submitted to the Mathematics (MAT) scientific panel of the HORIZON-MSCA, hence the mainstay of the projects will be mathematical and theoretical in nature**
+
+The team of researchers will be organised into five interconnected clusters:
 
 1.	Scale-free Theoretical Studies on Resilience
 2.	Ecological and Environmental Sciences
@@ -39,14 +44,14 @@ Concepts such as *Redundancy, Plasticity/Elasticity, Rigidity/Fragility, feedbac
 #### Cluster 2 -  Ecological and Environmental Sciences
 
 This cluster will focus on developing and applying mathematical and dynamical systems theories to model and predict ecological and environmental resilience. 
-The researchers will levarage concepts from nonlinear dynamics, bifurcation theory, and complex systems, the project aims to identify critical thresholds (tipping points) within ecosystems that signal potential transitions from stable to unstable states. The projects will provide insights into the mechanisms driving ecosystem resilience or vulnerability, facilitating the development of strategies to enhance ecological stability and sustainability in the face of climate change, habitat loss, and other anthropogenic pressures.
+The researchers will leverage concepts from nonlinear dynamics, bifurcation theory, and complex systems; the project aims to identify critical thresholds (tipping points) within ecosystems that signal potential transitions from stable to unstable states. The projects will provide insights into the mechanisms driving ecosystem resilience or vulnerability, facilitating the development of strategies to enhance ecological stability and sustainability in the face of climate change, habitat loss, and other anthropogenic pressures.
 
 
 #### Cluster 3 -  Biological and Evolutionary Sciences
 
 This cluster will explore the resilience of biological systems and evolutionary processes. 
 The role of genetic diversity, adaptation, and evolutionary pressures in maintaining resilience will be explored by focusing on how organisms and populations respond to environmental stressors over evolutionary time. 
-The researchers will use population genetics, population dynamics models, stochastic processes, and evolutionary game theory to investigate how resilience is maintained or lost at different biological scales, from cellular to population levels. The research will also examine how evolutionary strategies influence the ability of species to recover from perturbations, adapt to changing environments, and avoid extinction. 
+The researchers will use population genetics, population dynamics models, stochastic processes, and evolutionary game theory to investigate how resilience is maintained or lost at different biological scales, from cellular to population levels. The research will also examine how evolutionary strategies influence the ability of species to recover from perturbations, adapt to changing environments, and avoid (promote) extinction (in cases of dysbiosis via infections, cancers, pests etc.). 
 The goal is to provide a comprehensive theoretical understanding of the mechanisms that drive biological resilience, offering insights into conservation strategies and biodiversity management in the face of rapid environmental changes.
 
 
