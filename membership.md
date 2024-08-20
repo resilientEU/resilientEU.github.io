@@ -3,7 +3,7 @@ layout: post
 title: Membership
 ---
 
-We are currently soliciting interested researchers to join the Doctoral network application process.
+We are currently seeking researchers interested in joining the Doctoral Network application process.
 
 **The below definitions can be found in the [EU documents](https://resilienteu.github.io/literature/2024/08/02/EUDocuments.html)**
 
@@ -46,11 +46,11 @@ Considering this, we have compiled a short Letter of Interest template.
 
 ## Letter of Interest
 
-Please fill out the following letter of interest that will allow us to assess your interest and determine if it fits with the framework concept (see About) and the interests of other applicants.
-Feel free to send this information to collaborators (as per rules for beneficiaries or associated) if you see them fit in this program and possibly develop joint doctorate programs that preferably go across clusters.
+Please fill out the following letter of interest, which will allow us to assess your interest and determine if it aligns with the framework concept (see [About](https://resilienteu.github.io/about.html) ) and the interests of other applicants.
+Feel free to share this information with collaborators (per rules for beneficiaries or associated partners) if you believe they would be a good fit for this program and could potentially develop joint doctorate programs that preferably span clusters.
 
 Once assessed, we will form collaborative research teams and a core writing group to proceed with the application writing.
-Hence, while we appreciate your time and effort in being a part of the application process, we are limited in how many *Beneficiaries* we can have and a justified reasonable number of *Associated partners*
+While we appreciate your time and effort in participating in the application process, we are limited in the number of *Beneficiaries* we can accommodate and must maintain a justified, reasonable number of *Associated partners*.
 
 - **Funding cluster:** - [Please choose one main cluster](https://resilienteu.github.io/about.html) -- Scale-free theories (specific mathematical concept?), Scale specific (which specifically?), Synthesis (across which disciplines?) 
 
@@ -74,6 +74,6 @@ The doctoral network aims to promote international, inter-sectoral, and multi/in
 
 - **Structure of the University Doctorate Programme and International Joint Doctorates (500 characters including spaces and punctuation)** What are the details of the doctoral Programme at your University? How long is the Programme, and are there any specific rules and regulations to be followed? If you envision joint doctorates, then does the University allow for it?
 
-*Please send in your **completely** filled LOIs by the deadline - 31st of December 2024.*
+*Please send in your **completely** filled LOIs by the deadline - 31st of December 2024 to [email address will be updated here]*
 
 
