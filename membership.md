@@ -5,7 +5,7 @@ title: Membership
 
 We are currently soliciting interested researchers to join the Doctoral network application process.
 
-**The below definitions can be found in the EU documents [EU documents](https://resilienteu.github.io/literature/2024/08/02/EUDocuments.html)**
+**The below definitions can be found in the [EU documents](https://resilienteu.github.io/literature/2024/08/02/EUDocuments.html)**
 
 To check if your organisation is eligible or not, please refer to this [EU site](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks/6-steps-to-prepare-your-application)
 
@@ -52,9 +52,6 @@ Feel free to send this information to collaborators (as per rules for beneficiar
 Once assessed, we will form collaborative research teams and a core writing group to proceed with the application writing.
 Hence, while we appreciate your time and effort in being a part of the application process, we are limited in how many *Beneficiaries* we can have and a justified reasonable number of *Associated partners*
 
-
----
-
 - **Funding cluster:** - [Please choose one main cluster](https://resilienteu.github.io/about.html) -- Scale-free theories (specific mathematical concept?), Scale specific (which specifically?), Synthesis (across which disciplines?) 
 
 - **Applicant information:** Primary applicant (Name, Position, Affiliation), supporting applicant (mandatory person from the same organisation as a fallback)
@@ -76,9 +73,6 @@ The doctoral network aims to promote international, inter-sectoral, and multi/in
 - **Possible connections to other funding clusters (1000 characters including spaces and punctuation)** - Does the project connect to other scale-free theories, models of specific systems or multiple disciplines?
 
 - **Structure of the University Doctorate Programme and International Joint Doctorates (500 characters including spaces and punctuation)** What are the details of the doctoral Programme at your University? How long is the Programme, and are there any specific rules and regulations to be followed? If you envision joint doctorates, then does the University allow for it?
-
-
-----------
 
 *Please send in your **completely** filled LOIs by the deadline - 31st of December 2024.*
 
