@@ -54,37 +54,31 @@ Hence, while we appreciate your time and effort in being a part of the applicati
 
 
 ---
-**Funding area:** - [Please choose one main area](https://resilienteu.github.io/about.html) -- Scale-free theories (specific mathematical concept?), Scale specific (which specifically?), Synthesis (across which disciplines?) 
 
-**Applicant information:** Primary applicant (Name, Position, Affiliation), supporting applicant (mandatory person from the same organisation as a fallback)
+- **Funding cluster:** - [Please choose one main cluster](https://resilienteu.github.io/about.html) -- Scale-free theories (specific mathematical concept?), Scale specific (which specifically?), Synthesis (across which disciplines?) 
 
-**Partner information:** Have you already identified a partner who is also applying to this network?
+- **Applicant information:** Primary applicant (Name, Position, Affiliation), supporting applicant (mandatory person from the same organisation as a fallback)
 
-**Title (150 characters)**
-- The Project Title should, concisely and in non-technical terms, convey the essence of your proposed project.
+- **Partner information:** Have you already identified a partner who is also applying to this network?
 
-**Executive summary (1500 characters, including spaces and punctuation)**
- - The executive summary should concisely and non-technically convey how your project connects to the concept of resilience, which aspect of the concept the project will be tackling, how it will be tackled and what its impact would be.
+- **Title (150 characters)** - The Project Title should, concisely and in non-technical terms, convey the essence of your proposed project.
 
-**Project description (4000 characters including spaces and punctuation)**
- - This section includes the technical details of the proposed Doctoral project, connections/planned visits to potential academic partners in other EU & EU-associated countries, and how the visits will complement the completion of the Doctoral studies.
+- **Executive summary (1500 characters, including spaces and punctuation)** - The executive summary should concisely and non-technically convey how your project connects to the concept of resilience, which aspect of the concept the project will be tackling, how it will be tackled and what its impact would be.
 
-*Applied aspect (if any)* and connections to non-academic partners (1500 characters including spaces and punctuation)  
+- **Project description (4000 characters including spaces and punctuation)** - This section includes the technical details of the proposed Doctoral project, connections/planned visits to potential academic partners in other EU & EU-associated countries, and how the visits will complement the completion of the Doctoral studies.
+in addition to the 4000 characters above, include a subsection on *Applied aspect (if any)* and connections to non-academic partners (1500 characters including spaces and punctuation) .
 The doctoral network aims to promote international, inter-sectoral, and multi/inter-disciplinary collaboration in doctoral-level training in Europe. They also aim to train highly skilled doctoral candidates and stimulate entrepreneurship, creativity, and innovation in Europe and beyond. Recommend non-academic partners that resonate with the theme of resilience and sustainability in the industry and connect to the topic/methodology of the proposed Doctoral project.
 
-**Statement of significance (1000 characters including spaces and punctuation)**
-What is the state of the art of the topic of the Doctoral project about the themes of resilience? how is the project advancing it?
+- **Statement of significance (1000 characters including spaces and punctuation)**- What is the state of the art of the topic of the Doctoral project about the themes of resilience? how is the project advancing it?
 
-**Outcomes (1000 characters including spaces and punctuation)**
-- What will be the concrete outcomes of the Doctoral project? Academic and non-academic
+- **Outcomes (1000 characters including spaces and punctuation)** - What will be the concrete outcomes of the Doctoral project? Academic and non-academic
 
-**Possible connections to other funding areas (1000 characters including spaces and punctuation)**
-Does the project connect to other scale-free theories, models of specific systems or multiple disciplines?
+- **Possible connections to other funding clusters (1000 characters including spaces and punctuation)** - Does the project connect to other scale-free theories, models of specific systems or multiple disciplines?
 
-**Structure of the University Doctorate Programme and International Joint Doctorates (500 characters including spaces and punctuation)**
-What are the details of the doctoral Programme at your University? How long is the Programme, and are there any specific rules and regulations to be followed? If you envision joint doctorates, then does the University allow for it?
+- **Structure of the University Doctorate Programme and International Joint Doctorates (500 characters including spaces and punctuation)** What are the details of the doctoral Programme at your University? How long is the Programme, and are there any specific rules and regulations to be followed? If you envision joint doctorates, then does the University allow for it?
 
----
+
+----------
 
 *Please send in your **completely** filled LOIs by the deadline - 31st of December 2024.*
 
