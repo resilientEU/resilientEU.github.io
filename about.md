@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-*Please read the following carefully. It will help you position yourself within the framework.*
+*Please read the following carefully. It will help you position your project within the framework.*
 
 
 Resilience - Doctoral Network spanning the European Union focused on formalizing, implementing and synthesizing the concept of Resilience
@@ -70,3 +70,10 @@ The involved researchers will explore commonalities and differences in how resil
 The goal is to identify universal principles that govern resilience, such as feedback mechanisms, tipping points, and adaptive capacities, and connect back to the scale-free concepts to develop a unified theory that can be applied to predict and enhance resilience in complex systems. 
 The project will also investigate how resilience at one level (e.g., cellular or organismal) impacts resilience at higher organizational scales (e.g., ecosystems or societies). 
 By combining insights across clusters in ecology, evolutionary biology, sociobiology, cultural evolution, and socio-technological systems, this synthesis will provide a robust theoretical foundation for understanding and managing resilience in a rapidly changing world.
+
+<figure>
+  <img alt="Cluster Org" src="{{ '/assets/images/IMG_0073.jpeg' | relative_url }}" />
+  <figcaption>
+    Cluster organisation and connectivity.
+  </figcaption>
+</figure>
