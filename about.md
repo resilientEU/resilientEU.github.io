@@ -77,3 +77,11 @@ By combining insights across clusters in ecology, evolutionary biology, sociobio
     Cluster organisation and connectivity.
   </figcaption>
 </figure>
+
+
+Yours sincerely,
+
+Chaitanya S. Gokhale
+and Kateřina Staňková
+
+(Primary and Deputy Spokesperson)
