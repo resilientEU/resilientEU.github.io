@@ -40,8 +40,7 @@ Associated partners may not employ the researchers who are under the action.
 There are regulations about the consortium composition (maximum members per EU country, number of countries etc.).
 Furthermore, we are also interested in the fit within the theme of the framework and have already envisioned associations between potential network members.
 
-Considering this, we have compiled a short Letter of Interest template.
-
+Considering this, we have compiled a Letter of Interest template.
 
 
 ## Letter of Interest
@@ -52,6 +51,9 @@ Feel free to share this information with collaborators (per rules for beneficiar
 Once assessed, we will form collaborative research teams and a core writing group to proceed with the application writing.
 While we appreciate your time and effort in participating in the application process, we are limited in the number of *Beneficiaries* we can accommodate and must maintain a justified, reasonable number of *Associated partners*.
 
+[Access the Letter of Intent Form](https://forms.gle/pd9prfpVY5hZzdZX8)
+
+<!--
 - **Funding cluster:** - [Please choose one main cluster](https://resilienteu.github.io/about.html) -- Scale-free theories (specific mathematical concept?), Scale specific (which specifically?), Synthesis (across which disciplines?) 
 
 - **Applicant information:** Primary applicant (Name, Position, Affiliation), supporting applicant (mandatory person from the same organisation as a fallback)
@@ -74,6 +76,6 @@ The doctoral network aims to promote international, inter-sectoral, and multi/in
 
 - **Structure of the University Doctorate Programme and International Joint Doctorates (500 characters including spaces and punctuation)** What are the details of the doctoral Programme at your University? How long is the Programme, and are there any specific rules and regulations to be followed? If you envision joint doctorates, then does the University allow for it?
 
-*Please send in your **completely** filled LOIs by the deadline - 31st of December 2024 to [email address will be updated here]*
+*Please send in your **completely** filled LOIs by the deadline - 31st of December 2024 to [email address will be updated here]*-->
 
 
