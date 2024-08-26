@@ -12,7 +12,7 @@ To check if your organisation is eligible or not, please refer to this [EU site]
 There are two kinds of roles possible:
 
 
-### *Beneficiary*
+* *Beneficiary*
 
 The legal entities that sign the grant agreement (either directly or through an accession form) and have the responsibility for the proper implementation of the action.
 They contribute directly to the implementation of the research, transfer of knowledge and training activities.
@@ -23,14 +23,13 @@ academic/research institutions entitled to award a doctoral degree must be added
 an associated partner linked to a beneficiary.
 
 Beneficiaries can be from the 
-
-* Academic sectors - means public or private higher education establishments awarding academic degrees, public or private non-profit research organisations 81 and International European Research Organisations (IERO)
+*Academic sectors* - means public or private higher education establishments awarding academic degrees, public or private non-profit research organisations 81 and International European Research Organisations (IERO)
 
 or
 
-* Non-academic sectors - means any socio-economic actor not included in the academic sector and fulfilling the requirements of the Horizon Europe Rules for Participation.
+*Non-academic sectors* - means any socio-economic actor not included in the academic sector and fulfilling the requirements of the Horizon Europe Rules for Participation.
 
-### *Associated partners*
+* *Associated partners*
 
 Entities which participate in the action but without the right to
 charge costs or claim contributions. 
@@ -51,7 +50,7 @@ Feel free to share this information with collaborators (per rules for beneficiar
 Once assessed, we will form collaborative research teams and a core writing group to proceed with the application writing.
 While we appreciate your time and effort in participating in the application process, we are limited in the number of *Beneficiaries* we can accommodate and must maintain a justified, reasonable number of *Associated partners*.
 
-[Access the Letter of Intent Form](https://forms.gle/pd9prfpVY5hZzdZX8)
+### [Access the Letter of Intent Form](https://forms.gle/pd9prfpVY5hZzdZX8)
 
 <!--
 - **Funding cluster:** - [Please choose one main cluster](https://resilienteu.github.io/about.html) -- Scale-free theories (specific mathematical concept?), Scale specific (which specifically?), Synthesis (across which disciplines?) 
