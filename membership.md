@@ -50,7 +50,7 @@ Feel free to share this information with collaborators (per rules for beneficiar
 Once assessed, we will form collaborative research teams and a core writing group to proceed with the application writing.
 While we appreciate your time and effort in participating in the application process, we are limited in the number of *Beneficiaries* we can accommodate and must maintain a justified, reasonable number of *Associated partners*.
 
-### [Access the Letter of Intent Form](https://forms.gle/pd9prfpVY5hZzdZX8)
+### [Access the Letter of Intent Form](https://forms.gle/38ynHdpnuhxqHEQ9A)
 
 <!--
 - **Funding cluster:** - [Please choose one main cluster](https://resilienteu.github.io/about.html) -- Scale-free theories (specific mathematical concept?), Scale specific (which specifically?), Synthesis (across which disciplines?) 
