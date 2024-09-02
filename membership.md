@@ -18,8 +18,7 @@ The legal entities that sign the grant agreement (either directly or through an 
 They host the Doctoral students and contribute directly to the implementation of the research, transfer of knowledge and training activities.
 Beneficiaries can be from the 
 
-*Academic sectors* - means public or private higher education establishments awarding academic degrees, public or private non-profit research organisations 81 and International European Research Organisations (IERO)
-or
+*Academic sectors* - means public or private higher education establishments awarding academic degrees, public or private non-profit research organisations or
 
 *Non-academic sectors* - means any socio-economic actor not included in the academic sector and fulfilling the requirements of the Horizon Europe Rules for Participation.
 
