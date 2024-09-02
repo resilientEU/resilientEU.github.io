@@ -23,7 +23,7 @@ From [Holling, C. S. Resilience and Stability of Ecological Systems. Annu. Rev. 
 This definition emphasises resilience as an inherent system property rather than focusing solely on stability or recovery speed. 
 Our project will refine this concept into a mathematically precise, quantifiable definition applicable across sociobiological scales.
 
-**The proposal will be submitted to the Mathematics (MAT) scientific panel of the HORIZON-MSCA, hence the mainstay of the projects will be mathematical and theoretical in nature**
+**The proposal will be submitted to the Mathematics (MAT) scientific panel of the HORIZON-MSCA, hence the mainstay of the projects will be mathematical and theoretical in nature.**
 
 The team of researchers will be organised into five interconnected clusters:
 
