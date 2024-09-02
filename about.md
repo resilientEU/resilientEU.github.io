@@ -12,7 +12,7 @@ Resilience - Doctoral Network spanning the European Union focused on formalizing
 <figure>
   <img alt="Resilience_Logo" src="{{ '/assets/images/resilience.png' | relative_url }}" />
   <figcaption>
-    Resilience Logo of our network.
+    <!--Resilience Logo of our network.-->
   </figcaption>
 </figure>
 
