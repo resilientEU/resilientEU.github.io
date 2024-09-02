@@ -44,11 +44,13 @@ Considering this, we have compiled a Letter of Interest template.
 
 ## Letter of Interest
 
-Please fill out the following letter of interest, which will allow us to assess your interest and determine if it aligns with the framework concept (see [About](https://resilienteu.github.io/about.html) ) and the interests of other applicants.
+Please fill out the following letter of interest (LoI), which will allow us to assess your interest and determine if it aligns with the framework concept (see [About](https://resilienteu.github.io/about.html) ) and the interests of other applicants.
 Feel free to share this information with collaborators (per rules for beneficiaries or associated partners) if you believe they would be a good fit for this program and could potentially develop joint doctorate programs that preferably span clusters.
 
 Once assessed, we will form collaborative research teams and a core writing group to proceed with the application writing.
 While we appreciate your time and effort in participating in the application process, we are limited in the number of *Beneficiaries* we can accommodate and must maintain a justified, reasonable number of *Associated partners*.
+
+**Deadline for the LoI - 31st December 2024**
 
 ### [Access the Letter of Intent Form](https://forms.gle/38ynHdpnuhxqHEQ9A)
 
