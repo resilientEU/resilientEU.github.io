@@ -32,7 +32,7 @@ Associated partners may not employ the researchers who are under the action.
 
 
 There are regulations about the consortium composition (maximum members per EU country, number of countries etc.).
-Furthermore, we are also interested in the fit within the theme of the framework and have already envisioned associations between potential network members.
+Furthermore, we are also interested in the fit within the theme of the framework and the possible associations between potential network members to develop functional work-packages across clusters.
 Considering this, we have compiled a Letter of Interest template.
 
 
