@@ -15,12 +15,9 @@
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
+      {%- include analytics.html -%}
     {%- endif -%}
 
-    {% raw %}{% if jekyll.environment == 'production' and site.google_analytics %}
-    {% include analytics.html %}
-    {% endif %}{% endraw %}
 
   </head>
   <body>
