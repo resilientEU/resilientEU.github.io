@@ -5,10 +5,9 @@ title: About
 
 Marie Skłodowska-Curie Doctoral Networks (MSCDN) are aimed at integrating institutions across different sectors throughout Europe, building a network that extends across Europe and connects with academic and nonacademic organisations worldwide -https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks
 
-As an ongoing example of MSCDN, check out EvoGamesPlus (https://evogamesplus.eu/), which we are a part of.
+[EvoGamesPlus](https://evogamesplus.eu/) is such an ongoing network of which we are a part.
 
-
-*Please read the following carefully. It will help you position your project within the framework.*
+In 2025, we plan to apply for a new network:
 
 
 Resilience - Doctoral Network spanning the European Union focused on formalizing, implementing and synthesizing the concept of Resilience
@@ -28,9 +27,7 @@ From [Holling, C. S. Resilience and Stability of Ecological Systems. Annu. Rev. 
 This definition emphasises resilience as an inherent system property rather than focusing solely on stability or recovery speed. 
 Our project will refine this concept into a mathematically precise, quantifiable definition applicable across sociobiological scales.
 
-We have experience applying for MSCDN and are currently a part of the Doctoral Network [EvoGamesPlus](https://evogamesplus.eu) in the _Mathematics panel.
 **The proposal will be submitted to the Mathematics (MAT) scientific panel of the HORIZON-MSCA, hence the mainstay of the projects will be mathematical and theoretical in nature.**
-
 
 The team of researchers will be organised into five interconnected clusters:
 
