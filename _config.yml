@@ -17,6 +17,8 @@ title: Resilience
 email: resilientEUnetwork@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Developing an EU wide Doctoral network
+
+  [About](https://resilienteu.github.io/about.html) [Membership](https://resilienteu.github.io/membership.html)
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://resilienteu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512new.png
